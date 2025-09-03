@@ -397,7 +397,7 @@
         // Подключение к серверу
         function connectToServer() {
             // В реальном приложении замените на адрес вашего сервера
-            socket = io('44.229.227.142');
+            socket = io('https://am-8z43.onrender.com');
             
             socket.on('connect', () => {
                 myPlayerId = socket.id;
