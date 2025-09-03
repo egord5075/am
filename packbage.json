@@ -2,9 +2,9 @@
   "name": "top-down-shooter",
   "version": "1.0.0",
   "description": "Multiplayer top-down shooter game",
-  "main": "server.js",
+  "main": "node.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node.js"
   },
   "dependencies": {
     "express": "^4.18.2",
