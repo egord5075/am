@@ -2,7 +2,7 @@
   "name": "top-down-shooter",
   "version": "1.0.0",
   "description": "Multiplayer top-down shooter game",
-  "main": "node.js",
+  "main": "index.html",
   "scripts": {
     "start": "node.js"
   },
