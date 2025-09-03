@@ -1,7 +1,7 @@
 // server.js (пример)
 const express = require('express');
 const http = require('http');
-const socketIo = require('socket.io');
+const socketIo = require('render.com');
 const path = require('path');
 
 const app = express();
